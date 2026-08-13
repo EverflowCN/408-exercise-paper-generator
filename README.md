@@ -7,6 +7,10 @@
 [![Questions](https://img.shields.io/badge/选择题-1576-blue)](#题库构成)
 [![License](https://img.shields.io/badge/用途-个人学习-orange)](#版权与使用说明)
 
+![Relax 408 组卷平台预览](docs/preview.png)
+
+**[⬇ 下载最新版 Relax408 本地版](https://github.com/Tenzen-a10/408-exercise-paper-generator/releases/latest/download/Relax408.zip)**
+
 ## 项目概览
 
 Relax 408 是一套面向 408 计算机学科专业基础考试的本地练习工具。题库、题目截图、解析截图与 PDF 原册全部保存在本机，答题记录也只写入当前浏览器，不会上传到网络。
@@ -151,4 +155,3 @@ Relax408本地版/
 ## 版权与使用说明
 
 本项目仅用于个人学习、复习和技术交流，不得用于商业销售。题库、题目册、解析册及其内容的版权归原作者和相关权利人所有。公开传播或二次分发前，请自行确认拥有相应授权；如权利人提出合理要求，应及时停止分发或移除相关内容。
-
